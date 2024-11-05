@@ -1,6 +1,6 @@
-# Nesse Projeto foi realizado a criação de um  Piano.
+# Construindo um Simulador de Piano com JavaScript e CSS
 
-## Projeto Bastante intuitivo com suas respectivas letras e sons, onde o usuário pode inteagir com as teclas.
+## Projeto  Simulador de Piano Bastante intuitivo com suas respectivas letras e sons, onde o usuário pode inteagir com as teclas.
 
 
 
